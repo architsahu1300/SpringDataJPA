@@ -1,4 +1,4 @@
-package com.archit;
+package com.archit.springdatajpa.archit;
 
 import com.archit.config.AppConfig;
 import org.springframework.context.ApplicationContext;

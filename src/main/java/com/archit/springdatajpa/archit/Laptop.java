@@ -1,6 +1,8 @@
-package com.archit;
+package com.archit.springdatajpa.archit;
 
-public class Laptop implements Computer{
+import com.archit.Computer;
+
+public class Laptop implements Computer {
     String processor;
     public Laptop(){
         //System.out.println("Laptop Object constructor");

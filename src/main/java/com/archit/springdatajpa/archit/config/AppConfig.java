@@ -1,13 +1,10 @@
-package com.archit.config;
+package com.archit.springdatajpa.archit.config;
 
 import com.archit.Alien;
 import com.archit.Computer;
 import com.archit.Desktop;
-import com.archit.Laptop;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
-import org.springframework.context.annotation.Scope;
 
 
 //COMPONENT

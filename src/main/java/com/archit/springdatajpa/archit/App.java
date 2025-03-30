@@ -1,5 +1,7 @@
-package com.archit;
+package com.archit.springdatajpa.archit;
 
+import com.archit.Desktop;
+import com.archit.Laptop;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,10 +1,12 @@
-package com.archit;
+package com.archit.springdatajpa.archit;
 
 
 //We have 3 types of injection: Field injection, Constructor injection and Setter injection
 //Field injection is when @Autowired done on a field. Example: private Computer com in below class
 //Constructor injection is when @Autowired is done on a parameterized Constructor which requires a Computer object
 //Setter injection is when above is done on a setter
+
+import com.archit.Computer;
 
 //@Scope can be used on top of a class to specify the scope of that class bean
 public class Alien{

@@ -1,4 +1,4 @@
-package com.archit;
+package com.archit.springdatajpa.archit;
 
 public class Desktop implements Computer{
     public Desktop(){
