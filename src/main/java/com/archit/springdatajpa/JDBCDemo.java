@@ -1,4 +1,4 @@
-package com.example.jdbcdemo;
+package com.archit.springdatajpa;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
